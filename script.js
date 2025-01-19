@@ -4,3 +4,7 @@ function add (){
 var t = x+y;
 console.log(t);
 }
+
+function spare (){
+    console.log(x-y);
+}
