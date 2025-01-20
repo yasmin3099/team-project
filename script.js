@@ -33,6 +33,12 @@ function multiply(parameter1, parameter2) {
   return parameter1 * parameter2;
 }
 
+
 console.log(multiply(4, 5));
 
 
+
+function modlas(){
+    var m = x%y;
+    console.log(m);
+}
