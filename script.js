@@ -8,3 +8,17 @@ console.log(t);
 function spare (){
     console.log(x-y);
 }
+
+
+
+
+
+
+
+function subtract(a, b) {
+    return a - b;
+}
+
+
+console.log(subtract(10, 5));
+
