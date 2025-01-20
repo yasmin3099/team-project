@@ -8,3 +8,8 @@ console.log(t);
 function spare (){
     console.log(x-y);
 }
+
+function modlas(){
+    var m = x%y;
+    console.log(m);
+}
