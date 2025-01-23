@@ -17,6 +17,14 @@ function division(p1, p2) {
     }
 }
 
+
+
+function subtract(a, b) {
+    return a - b;
+}
+
+
+console.log(subtract(10, 5));
 console.log(division(12 / 3));
 
 
@@ -25,4 +33,9 @@ function multiply(parameter1, parameter2) {
     return parameter1 * parameter2;
 }
 
+
+function modlas(){
+    var m = x%y;
+    console.log(m);
+}
 console.log(multiply(4, 5));
