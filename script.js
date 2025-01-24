@@ -39,3 +39,15 @@ function modlas(){
     console.log(m);
 }
 console.log(multiply(4, 5));
+
+
+
+//Ayman 
+
+function SayHello(){
+    console.log("Hello World");
+    console.log("Hello Ayman");
+}
+
+
+
