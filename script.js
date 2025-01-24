@@ -42,11 +42,10 @@ console.log(multiply(4, 5));
 
 
 
-//Ayman 
+//Mohamed Ayman 
 
 function SayHello(){
     console.log("Hello World");
-    console.log("Hello Ayman");
 }
 
 
